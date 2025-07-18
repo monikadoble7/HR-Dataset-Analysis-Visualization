@@ -116,5 +116,8 @@ README.md
 
 ### 📞 Feedback & Contributions
 
-Got suggestions? Open an Issue, share a screenshot of your improved dashboard, or email me at **[your.email@example.com](mailto:your.email@example.com)**. Let’s make this HR dashboard more insightful!
+Got suggestions? Open an Issue, share a screenshot of your improved dashboard, or email me at 
+Contact:
+name: Monika Doble
+Email:monikadoble7@gmail.com. Let’s make this HR dashboard more insightful!
 
